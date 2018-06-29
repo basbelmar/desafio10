@@ -1,0 +1,24 @@
+
+.banner{
+	height: 500px;
+	
+}
+
+.banner__h1_estilo{
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	color: white;
+	position: relative;
+
+}
+
+.banner__imagen_estilo{
+	position: absolute;
+
+	}
+	.lista_sinpuntos
+	{
+		shape-image-threshold: 89
+
+	}
+
